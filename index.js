@@ -248,17 +248,7 @@
 // }
 
 // 14.sort two numbers
-// let num1 = 560;
-// let num2 = 560;
-// if(num1<num2){
-//     document.write(num1 + " num1 is small ")
-//     document.write(num2 + " num2 is big ")
-// }else if(num1>num2){
-//     document.write(num1 + " num1 is big ");
-//     document.write(num2 + " num2 is small ")
-// }else{
-//     document.write("both number are equal")
-// }
+
 
 // 15.sort three number
 // let num1 =34 ;
